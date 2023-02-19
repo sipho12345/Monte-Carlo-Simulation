@@ -1,4 +1,4 @@
-# These Files Can Only Be Run Through Jupyter NoteBook or Google Colab
+# Monte Carlo Simulation
 - Financial data was extracted from Yahoo finance.
 - Cleaned, Scaled and Removed the errornouse terms.
 - Used Monte Carlo Simulation to Simulate the direction a of South African Stocks Portfolio.
