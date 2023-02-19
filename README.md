@@ -1,6 +1,6 @@
 # Monte Carlo Simulation
 - Financial data was extracted from Yahoo finance.
-- Cleaned, Scaled and Removed the errornouse terms.
+- Cleaned, Scaled and Removed the NaN values.
 - Used Monte Carlo Simulation to Simulate the direction a of South African Stocks Portfolio.
 - Stocks ticker invloved were NTC, SSW, RBP, AMS, APN and FSR.  
 - I chose to have 10 000 simulations for the period of 90 days.
