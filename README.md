@@ -1,4 +1,9 @@
-
 # These Files Can Only Be Run Through Jupyter NoteBook or Google Colab
-In this project we used Monte Carlo Simulation to Simulate the direction of an Asset, this includes 10 000 simulations in which the direction of an asset might go, we also calulated the VaR and CVar, to get Value at Risk and Conditional Value at Risk.
- We also used linear regression to compare a single asset to the market to get Alpha which is an indicate of an asset performance to market performance(for example AMZN stock to the whole S&P500)  
+- Financial data was extracted from Yahoo finance.
+- Cleaned, Scaled and Removed the error terms.
+- Used Monte Carlo Simulation to Simulate the direction a of South African Stocks Portfolio.
+- Stocks ticker invloved were NTC, SSW, RBP, AMS, APN and FSR.  
+- I chose to have 10 000 simulations for the period of 90 days.
+- In which were enough to give an idea of the direction of an portfolio might go.
+- We also caclulated the VaR and CVar. 
+- These measures gives an prediction on how much our portfolio might lose in a period of 90 days.
