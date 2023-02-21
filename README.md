@@ -14,9 +14,9 @@
 <img width="1001" alt="Screenshot 2023-02-19 at 11 20 07" src="https://user-images.githubusercontent.com/61363539/219939631-06ccabb7-ab31-4bc2-8dfb-3f7ac4e6db4d.png">
 
 
-#Historical Performances
+# Historical Performances:
 
 <img width="977" alt="Screenshot 2023-02-19 at 11 23 54" src="https://user-images.githubusercontent.com/61363539/219939763-9b747ff5-c1a2-46df-9037-f47e27988c4c.png">
 
-#Results
+# Results:
 <img width="1145" alt="Screenshot 2023-02-19 at 11 25 03" src="https://user-images.githubusercontent.com/61363539/219939841-5f510624-086f-4199-bccb-328428078790.png">
