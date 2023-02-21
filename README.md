@@ -9,7 +9,7 @@
 - These measures gives an prediction on how much our portfolio might lose in a period of 90 days.
 
 
-# Data Collection And Storage
+# Data Collection And Storage:
 
 <img width="1001" alt="Screenshot 2023-02-19 at 11 20 07" src="https://user-images.githubusercontent.com/61363539/219939631-06ccabb7-ab31-4bc2-8dfb-3f7ac4e6db4d.png">
 
