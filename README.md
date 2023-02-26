@@ -25,5 +25,7 @@
 - Share Insight:
 
 The expected portfolio loss is R2798.42.
+
+
 The expected portfolio loss under extreme/unlikely scenario is R3318.65.
 
