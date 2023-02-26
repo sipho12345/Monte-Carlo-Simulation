@@ -23,6 +23,7 @@
 <img width="1145" alt="Screenshot 2023-02-19 at 11 25 03" src="https://user-images.githubusercontent.com/61363539/219939841-5f510624-086f-4199-bccb-328428078790.png">
 
 - Share Insight:
+
 The expected portfolio loss is R2798.42.
 The expected portfolio loss under extreme/unlikely scenario is R3318.65.
 
